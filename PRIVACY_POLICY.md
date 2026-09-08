@@ -197,9 +197,8 @@ You are encouraged to review this Privacy Policy periodically.
 
 If you have questions, concerns, or requests regarding this Privacy Policy or the App's privacy practices, please contact us:
 
-**Developer:** [YOUR DEVELOPER / COMPANY NAME]
-
-**Email:** [YOUR SUPPORT EMAIL]
+**Developer:** xetriva technology
+**Email:** info@xetriva,com
 
 **App:** Safe QR Code Scanner & Reader
 
